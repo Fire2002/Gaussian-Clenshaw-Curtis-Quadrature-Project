@@ -7,4 +7,4 @@ The project solves problems that include:
 - construction of a 1-D and 2-D integrator via Gaussian quadrature.
 - investigation of the Clenshaw-Curtis quadrature.
 
-The MATLAB file provided follows the paper, and I have also attached a second Python file for testing a separate 1-D and 2-D Gaussian integrator.
+The MATLAB file provided follows the paper, and I have also attached a second Python file for testing a separate 1-D and 2-D integrator via 5-point Gaussian quadrature.
