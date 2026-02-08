@@ -8,3 +8,4 @@ The project solves problems that include:
 - investigation of the Clenshaw-Curtis quadrature.
 
 The MATLAB file provided follows the paper, and I have also attached a second Python file for testing a separate 1-D and 2-D integrator via 5-point Gaussian quadrature.
+When running the MATLAB file, make sure that you have installed MATLAB's Symbolic Tools add-on.
